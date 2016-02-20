@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyCustomTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:colorPrimary">#f0a409</item>
+        <item name="android:colorPrimaryDark">#d57a01</item>
+
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
